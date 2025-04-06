@@ -13,7 +13,9 @@ const Home = () => {
     fetchData()
   },[])
   return (
-    <div>{user}</div>
+    <div className="">
+      sdfsdf sdf sdf sdf
+    </div>
   )
 }
 
